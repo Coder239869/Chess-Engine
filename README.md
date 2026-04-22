@@ -1,1 +1,2 @@
 Just put engine.py and model.py in the same folder, checkpoint.pt will be auto generated if not already there, checkpoint is a 300 games of training checkpoint, will hopefully upload 1k training games checkpoint soon!
+Also I should add you run engine.py to start the engine.
